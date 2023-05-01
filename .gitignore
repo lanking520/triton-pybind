@@ -1,0 +1,6 @@
+.idea/
+pybind11/
+tritonserver/
+cmake-build-debug/
+build/
+.DS_Store
